@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "userid": "demo@demo.com",
+      "password": "$2b$10$g3g8POVfHMlLzJbmjv0zy.dqhTxc3s/bXmYS1qiA/9E9cW5W7yAuy"
+    },
+    {
+      "userid": "luis.huapaya1389@gmail.com",
+      "password": "$2b$10$eWq4MdmQko5lUibh9MhD/ePMM2JAHiqomODDyJEbQHpqtVWU.ZA9m"
+    },
+    {
+      "userid": "luis.deftones@gmail.com",
+      "passkeyInfo": {
+        "webauthn_session_id": "EMU_FFzdp55nCFG7Ol1XB",
+        "user_id": "cz9gvltc29s1arqu9ky7r",
+        "external_user_id": "luis.deftones@gmail.com",
+        "credential_id": "ARsKFqISMK/WjP8fYrAAZlfQd+Uk9X7Qsfohsbia2v8SzT693Ko+GS7r4+M2esfkCYGiPkpAlPGk+nD3gwazTOg=",
+        "webauthn_username": "luis.deftones@gmail.com",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "45536161",
+      "passkeyInfo": {
+        "webauthn_session_id": "eUmHJ4kGsxViQVDmz1MFj",
+        "user_id": "67wqy2o0w21q85ekirwg8",
+        "external_user_id": "45536161",
+        "credential_id": "AZ3pUGRNXNwj0VJIu8+hgrYVB/y0Nz3A7GapcgC9qAkcK2wuarbu/5ofc50y0YyNTBdu/yjpHJ4HHDCibXZMTR8=",
+        "webauthn_username": "45536161",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "46761234",
+      "passkeyInfo": {
+        "webauthn_session_id": "eqvuEFfYzHBQybvqXxKiW",
+        "user_id": "h3o7m51avqs8tfs6lddq7",
+        "external_user_id": "46761234",
+        "credential_id": "Wj/lWU01ba77pwJ/c3O5zqP1GSarbzYJkAaUcteJ7kU=",
+        "webauthn_username": "46761234",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    },
+    {
+      "userid": "46789009",
+      "passkeyInfo": {
+        "webauthn_session_id": "4ZoiBz5v-MLMhJ8HYOkWr",
+        "user_id": "pfjf613z9ezbsmswgbn1x",
+        "external_user_id": "46789009",
+        "credential_id": "jXdt5kPnyRxCM7hNRWas7JkX/dc8lAV2eEJ0HQtKgqw=",
+        "webauthn_username": "46789009",
+        "authenticator_attachment": "platform",
+        "is_user_created": true
+      }
+    }
+  ]
+}
